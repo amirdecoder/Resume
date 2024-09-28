@@ -19,9 +19,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/deinneon.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -36,9 +35,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/gamegifts.ir.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -53,9 +51,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/pargolriaziat.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/Learner-Verification-1945-35544408.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -70,9 +67,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/yellowshop.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/Learner-Verification-1945-35544408.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -87,9 +83,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/rebelsport.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/Learner-Verification-1945-35544408.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -104,9 +99,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/mimiran.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/Learner-Verification-1945-35544408.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -123,9 +117,8 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/RFU%20hackerone.jpg"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
 
@@ -140,8 +133,7 @@ ___
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/Vital%20Arvan.png"><img>
 </div>
 
-<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
-<p>Download PDF Certificate<p>
-</a>
+* Information
+  * info
 
 <br>
