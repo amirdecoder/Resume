@@ -1,6 +1,6 @@
 # Resume
 
-* Go to [Security projects](https://#) link
+* Go to [Security projects](#security) link
 * Go to [Local projects](https://#) link
 * Go to [Online projects](#online) link
 * Go to [WebGame projects](https://#) link
