@@ -109,3 +109,39 @@ ___
 </a>
 
 <br>
+
+# Security
+
+<h3>
+  hackerone - Remote file upload ( DOS attack through long filename) :
+</h3>
+  
+___
+
+* Go to 
+<div align="center">
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/RFU%20hackerone.jpg"><img>
+</div>
+
+<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
+<p>Download PDF Certificate<p>
+</a>
+
+<br>
+
+<h3>
+  arvancloud :
+</h3>
+
+___
+
+* Go to 
+<div align="center">
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/Vital%20Arvan.png"><img>
+</div>
+
+<a href="https://github.com/amirdecoder/Cv/blob/main/PDF/digital-skill-web-analytics_certificate_of_achievement_brzgrv7.pdf">
+<p>Download PDF Certificate<p>
+</a>
+
+<br>
