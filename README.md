@@ -32,7 +32,7 @@ ___
 
 * Go to [gamegifts](https://gamegifts.ir) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/gamegifts.ir.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/gamegifts.ir.webp"><img>
 </div>
 
 * Information
@@ -48,7 +48,7 @@ ___
 
 * Go to [pargolriaziat](https://pargolriaziat.com) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/pargolriaziat.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/pargolriaziat.webp"><img>
 </div>
 
 * Information
@@ -64,7 +64,7 @@ ___
 
 * Go to [yellowshop](https://yellowshop.ir) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/yellowshop.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/yellowshop.webp"><img>
 </div>
 
 * Information
@@ -80,7 +80,7 @@ ___
 
 * Go to [rebelsport](https://www.rebelsport.com.au) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/rebelsport.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/rebelsport.webp"><img>
 </div>
 
 * Information
@@ -96,7 +96,7 @@ ___
 
 * Go to [mimiran](https://mimiran.ir) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/mimiran.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/mimiran.webp"><img>
 </div>
 
 * Go to [mimiran Game](https://game.mimiran.ir/dangercliffs) link
