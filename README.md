@@ -16,7 +16,7 @@ ___
 
 * Go to [deinneon](https://www.deinneon.de) link
 <div align="center">
-<img src="https://github.com/amirdecoder/File/blob/main/Sample/deinneon.png"><img>
+<img src="https://github.com/amirdecoder/File/blob/main/Sample/deinneon.webp"><img>
 </div>
 
 * Information
