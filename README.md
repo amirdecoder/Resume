@@ -14,7 +14,7 @@
   
 ___
 
-* Go to [deinneon](http://ecobitewise.com) link
+* Go to [ecobitewise](http://ecobitewise.com) link
 <div align="center">
 <img src="https://github.com/amirdecoder/File/blob/main/Sample/ecobitewise.webp"><img>
 </div>
@@ -160,7 +160,7 @@ ___
 <br>
 
 <h3>
-  arvancloud :
+  arvancloud : Amirhossein arabahmadi
 </h3>
 
 ___
